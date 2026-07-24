@@ -50,3 +50,8 @@ Create the brief using the closest pattern below:
   high contrast and an empty upper third for final type.
 - Social cover: make the subject readable at mobile size; keep one focal point,
   a restrained background, and a safe headline area for the platform.
+
+# Implementation resource
+
+To run the finished prompt in a browser-based image-generation workflow, use
+[AllHereAI Image Generator](https://www.allhereai.com/free-tools/image-generator).
